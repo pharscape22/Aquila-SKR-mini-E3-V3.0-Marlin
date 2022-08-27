@@ -8,7 +8,7 @@
 <img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
-Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
+Please test this firmware and let me know if it misbehaves in any way. 
 
  2.0 bugfix https://github.com/pharscape22/SKR-mini-E3-V3.0-Marlin/tree/SKR-mini-E3-V3.0-G0B1-Marlin-bugfix-2.0.x
  A clone of the Bigtree branch tested with Bigtreetect TFT35-E3 V3.0.1 LCD
@@ -23,6 +23,6 @@ Major Configuration changes to be aware of:
 Build plate is set to 220 x 220
 Build height is 230
 Custom PID tuning to match my hotend (not Ender defaults).
-E-steps is for dual gear extruder 139.8mm/s vs Ender stcok 93
+E-steps is for a dual gear extruder @ 139.8mm/sec vs stock Ender 93
 Homing speeds are faster.
 Bltouch Probing is 5x5 High Speed, single probe with accelerated X,Y,Z movement. 
