@@ -14,7 +14,7 @@ Please test this firmware and let us know if it misbehaves in any way. Volunteer
  A clone of the Bigtree branch tested with Bigtreetect TFT35-E3 V3.0.1 LCD
  Working on my Aquila X2 
  
- 2.1 bugfix https://github.com/pharscape22/SKR-mini-E3-V3.0-Marlin/blob/SKR-mini-E3-V3.0-G0B1-Marlin-bugfix-2.1.x
+ 2.1 bugfix https://github.com/pharscape22/SKR-mini-E3-V3.0-Marlin/tree/SKR-mini-E3-V3.0-G0B1-Marlin-bugfix-2.1.x
  Branch from Marlin 2.1.x bugfix.
  Used with Bigtreetect TFT35-E3 V3.0.1 LCD
  Working on my Aquila X2 
